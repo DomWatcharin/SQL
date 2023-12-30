@@ -76,7 +76,7 @@ SELECT
 	LastName AS lname
 FROM Customers;
 
--- To conect 2 culumn 
+-- To conect 2 column 
 SELECT 
 	FirstName,
 	LastName,
